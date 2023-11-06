@@ -10,3 +10,7 @@ Open and look through the data file. Path to the file:datasets/users_behavior.cs
 Split the source data into a training set, a validation set, and a test set.
 Investigate the quality of different models by changing hyperparameters. Briefly describe the findings of the study.
 Check the quality of the model using the test set.
+
+
+# Link to project on nbviewr.org
+https://nbviewer.org/github/TimWright512/IntroToMachineLearningProject/blob/main/Sprint%2011%20Project.ipynb
