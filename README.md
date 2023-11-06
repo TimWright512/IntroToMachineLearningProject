@@ -12,5 +12,5 @@ Investigate the quality of different models by changing hyperparameters. Briefly
 Check the quality of the model using the test set.
 
 
-# Link to project on nbviewr.org
+# Link to project on nbviewer.org
 https://nbviewer.org/github/TimWright512/IntroToMachineLearningProject/blob/main/Sprint%2011%20Project.ipynb
