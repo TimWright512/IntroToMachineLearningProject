@@ -7,12 +7,15 @@ You have access to behavior data about subscribers who have already switched to 
 Develop a model with the highest possible accuracy. In this project, the threshold for accuracy is 0.75. Check the accuracy using the test dataset.  
 
 # Project instructions
-Open and look through the data file. Download here: [dataset](https://practicum-content.s3.us-west-1.amazonaws.com/datasets/users_behavior.csv)
+1. Open and look through the data file. Download here: [dataset](https://practicum-content.s3.us-west-1.amazonaws.com/datasets/users_behavior.csv)
 
-Split the source data into a training set, a validation set, and a test set.
-Investigate the quality of different models by changing hyperparameters. Briefly describe the findings of the study.
-Check the quality of the model using the test set.
+2. Split the source data into a training set, a validation set, and a test set.
 
+3. Investigate the quality of different models by changing hyperparameters. Briefly describe the findings of the study.
+
+4. Check the quality of the model using the test set.
+
+5. Additional task: sanity check the model. This data is more complex than what you’re used to working with, so it's not an easy task. We'll take a closer look at it later.
 
 # Link to project on nbviewer.org
 https://nbviewer.org/github/TimWright512/IntroToMachineLearningProject/blob/main/Sprint%2011%20Project.ipynb
